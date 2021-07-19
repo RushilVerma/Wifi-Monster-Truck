@@ -40,4 +40,12 @@ Materials used:
 • 15V 1A DC Adapter
 
 APP UI Design:
+![image](https://user-images.githubusercontent.com/44629500/126152275-181d947a-eb38-42b9-a461-1b6137b718cc.png)
+
+RC Car Finished Design:
+![image](https://user-images.githubusercontent.com/44629500/126152417-57273085-c836-42b6-b60f-784b75ed44ba.png)
+
+Wheel Combination Working:
+![image](https://user-images.githubusercontent.com/44629500/126152356-af8ee38f-def3-4c39-a02b-180ad56e2203.png)
+
 
